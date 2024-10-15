@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Raoul Haba 👋</h2>
 <p>I'm currently pursuing a BSc in Computer Science and Software Engineering at Maynooth University, where I'm passionate about building innovative solutions, learning new technologies, and growing my software development skills. 🚀</p> 
 
-<p>Outside of coding, I'm also a musician! 🎵 I publish music on my YouTube channel, Seisho, which has grown to 1.13k subscribers and amassed over 200k views. My channel showcases my creative journey in music production, blending my love for technology and the arts.</p> 
+<p>Outside of coding, I'm also a musician!  I publish music on my YouTube channel, Seisho, which has grown to 1.13k subscribers and amassed over 200k views. My channel showcases my creative journey in music production, blending my love for technology and the arts. 🎵</p> 
  
 <p>Feel free to explore my repositories to see what I'm working on, or check out my YouTube channel if you're into music. Let's connect! 🌍</p> 
 
