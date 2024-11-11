@@ -1,7 +1,5 @@
 <h2 align="center">Hi, I'm Raoul Haba 👋</h2>
 <p>I'm currently pursuing a BSc in Computer Science and Software Engineering at Maynooth University, where I'm passionate about building innovative solutions, learning new technologies, and growing my software development skills. 🚀</p> 
-
-<p>Outside of coding, I'm also a musician!  I publish music on my YouTube channel, Seisho, which has grown to 1.13k subscribers and amassed over 200k views. My channel showcases my creative journey in music production, blending my love for technology and the arts. 🎵</p> 
  
 <p>Feel free to explore my repositories to see what I'm working on, or check out my YouTube channel if you're into music. Let's connect! 🌍</p> 
 
@@ -11,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@Seisho_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="seisho" height="30" width="40" /></a> 
  
 <a href="https://www.leetcode.com/seisho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seisho" height="30" width="40" /></a>
 </p>
