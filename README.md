@@ -1,11 +1,9 @@
 <h2 align="center">Hi, I'm Raoul Haba 👋</h2>
-<p>I'm currently pursuing a BSc in Computer Science and Software Engineering at Maynooth University, where I'm passionate about building innovative solutions, learning new technologies, and growing my software development skills. 🚀</p> 
+<p>I'm currently pursuing a BSc in Computer Science and Software Engineering at Maynooth University, where I'm passionate about building innovative solutions, learning new technologies, and growing my software development skills.</p> 
  
-<p>Feel free to explore my repositories to see what I'm working on, or check out my YouTube channel if you're into music. Let's connect! 🌍</p> 
+<p>Feel free to explore my repositories to see what I'm working on. Let's connect! 🌍</p> 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- ⚡ Fun fact **I really love music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
