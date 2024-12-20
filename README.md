@@ -11,8 +11,10 @@
 </ul>
 
 
+<h3 align="left">Connect with me! 🌍</h3>
 
-<h2>Skills</h2> Let's connect! 🌍
+
+<h2>Skills</h2> 
 
 <h3 align="left">Programming Languages</h3>
 
