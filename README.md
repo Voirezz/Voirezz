@@ -29,14 +29,4 @@
 
 ![Database & Tools](https://skillicons.dev/icons?i=git,aws,nodejs,express,git,github,idea,vscode)
 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
- 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
- 
-
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=voirezz&show_icons=true&locale=en" alt="voirezz" /></p>
