@@ -27,6 +27,6 @@
 
 <h3 align="left">Other Tools & Technologies</h3>
 
-![Database & Tools](https://skillicons.dev/icons?i=git,aws,nodejs,express,git,github,idea,vscode)
+![Database & Tools](https://skillicons.dev/icons?i=aws,nodejs,express,git,github,idea,vscode)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=voirezz&show_icons=true&locale=en" alt="voirezz" /></p>
