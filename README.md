@@ -1,31 +1,20 @@
 <h2 align="center">Hi, I'm Raoul! 👋</h2>
 <p>Pursuing a BSc in Computer Science and Software Engineering at Maynooth University, with a strong passion for developing innovative solutions, exploring emerging technologies, and enhancing my software development expertise.</p> 
  
-<p>Feel free to explore my repositories to see what I'm working on. Let's connect! 🌍</p> 
+<p>Feel free to explore my repositories to see what I'm working on.</p> 
 
 <h2>Currently Learning 🌱 </h2>
 <ul>
- <li><strong> - Data Structures and Algorithms</strong> </li>
- <li><strong> - Full Stack Web Development</strong> </li>
- <li><strong> - DevOps</strong> </li>
+ <li><strong> Data Structures and Algorithms</strong> </li>
+ <li><strong> Full Stack Web Development</strong> </li>
+ <li><strong> DevOps</strong> </li>
 </ul>
 
 
 
-
-
-<h2>Skills</h2>
+<h2>Skills</h2> Let's connect! 🌍
 <h3 align="left">Programming Languages</h3>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <h3 align="left">Frontend Technologies</h3>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
