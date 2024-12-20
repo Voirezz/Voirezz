@@ -14,7 +14,8 @@
 
 <h2>Skills</h2> Let's connect! 🌍
 
-####Programming Languages
+<h3 align="left">Programming Languages</h3>
+
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,bitbucket,jira)
 
 <h3 align="left">Frontend Technologies</h3>
