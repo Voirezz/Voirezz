@@ -4,9 +4,14 @@
 <p>Feel free to explore my repositories to see what I'm working on. Let's connect! 🌍</p> 
 
 <h2>Currently Learning 🌱 </h2>
-<strong> - Data Structures and Algorithms</strong>
-<strong> - Full Stack Web Development</strong>
-<strong> - DevOps</strong>
+<ul>
+ <li><strong> - Data Structures and Algorithms</strong> </li>
+ <li><strong> - Full Stack Web Development</strong> </li>
+ <li><strong> - DevOps</strong> </li>
+</ul>
+
+
+
 
 
 <h2>Skills</h2>
