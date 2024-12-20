@@ -1,15 +1,13 @@
-<h2 align="center">Hi, I'm Raoul Haba 👋</h2>
-<p>I'm currently pursuing a BSc in Computer Science and Software Engineering at Maynooth University, where I'm passionate about building innovative solutions, learning new technologies, and growing my software development skills.</p> 
+<h2 align="center">Hi, I'm Raoul! 👋</h2>
+<p>Pursuing a BSc in Computer Science and Software Engineering at Maynooth University, with a strong passion for developing innovative solutions, exploring emerging technologies, and enhancing my software development expertise.</p> 
  
 <p>Feel free to explore my repositories to see what I'm working on. Let's connect! 🌍</p> 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+<h2>Currently Learning 🌱 </h2>
+- **Data Structures and Algorithms**
+- **Full Stack Web Development**
+- **DevOps**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- 
-<a href="https://www.leetcode.com/seisho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seisho" height="30" width="40" /></a>
-</p>
 
 <h2>Skills</h2>
 <h3 align="left">Programming Languages</h3>
@@ -33,6 +31,8 @@
 
 <h3 align="left">Other Tools & Technologies</h3>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://www.leetcode.com/seisho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seisho" height="30" width="40" /></a>
+</p>
  
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
